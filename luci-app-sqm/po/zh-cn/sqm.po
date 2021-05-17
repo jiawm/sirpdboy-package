@@ -180,7 +180,7 @@ msgstr "上传速度(kbit/s)(0-无限制)："
 
 #: applications/luci-app-sqm/luasrc/model/cbi/sqm.lua:92
 msgid "Verbosity of SQM's output into the system log."
-msgstr "日志等级。"
+msgstr "输出到系统日志类型："
 
 #: applications/luci-app-sqm/luasrc/model/cbi/sqm.lua:211
 msgid "Which link layer to account for:"
